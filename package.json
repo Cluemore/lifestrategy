@@ -1,0 +1,9 @@
+{
+  "name": "lifestrategy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev":"vite","build":"tsc -b && vite build","test":"vitest run","preview":"vite preview"},
+  "dependencies": {"@vitejs/plugin-react":"latest","framer-motion":"latest","howler":"latest","idb-keyval":"latest","lucide-react":"latest","phaser":"latest","react":"latest","react-dom":"latest","recharts":"latest","zustand":"latest"},
+  "devDependencies": {"@types/howler":"latest","@types/react":"latest","@types/react-dom":"latest","autoprefixer":"latest","postcss":"latest","tailwindcss":"^3.4.17","typescript":"latest","vite":"latest","vitest":"latest"}
+}
